@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24025189945",
+    "project_id": "titan-route-master",
+    "storage_bucket": "titan-route-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24025189945:android:18790a753abc3bee7fc7e8",
+        "android_client_info": {
+          "package_name": "com.titanroutemaster.trm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQN1xAXy6DFg5OS-0XSJNte6A0Is4TJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
